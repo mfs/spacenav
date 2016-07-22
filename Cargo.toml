@@ -1,0 +1,14 @@
+[package]
+name = "spacenav"
+version = "0.1.0"
+authors = ["Mike Sampson <mike@sambodata.com>"]
+description = "Library for interfacing with the open source Spacenav daemon."
+documentation = "https://mfs.github.io/spacenav"
+homepage = "https://github.com/mfs/spacenav"
+repository = "https://github.com/mfs/spacenav"
+readme = "README.md"
+keywords = ["Spacenav", "3D", "mouse"]
+license = "MIT"
+
+[dependencies]
+byteorder = "*"
