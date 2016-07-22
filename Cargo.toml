@@ -11,4 +11,4 @@ keywords = ["Spacenav", "3D", "mouse"]
 license = "MIT"
 
 [dependencies]
-byteorder = "*"
+byteorder = "0.5.3"
