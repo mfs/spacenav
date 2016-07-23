@@ -36,7 +36,7 @@ fn main() {
 }
 ```
 
-See [example output][3] of the above of the above when used with a SpaceNavigator.
+See [example output][3] of the above code when used with a SpaceNavigator.
 
 [0]: http://spacenav.sourceforge.net
 [1]: http://www.3dconnexion.com
