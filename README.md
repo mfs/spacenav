@@ -1,3 +1,5 @@
+[Documentation][2]
+
 This crate provides an interface to the open source [Spacenav][0] daemon.
 
 This daemon communicates with 3D mice made by [3DConnexion][1] such as the
@@ -34,6 +36,9 @@ fn main() {
 }
 ```
 
+See [example output][3] of the above of the above when used with a SpaceNavigator.
+
 [0]: http://spacenav.sourceforge.net
 [1]: http://www.3dconnexion.com
-
+[2]: https://mfs.github.io/spacenav/spacenav/index.html
+[3]: https://asciinema.org/a/80713
